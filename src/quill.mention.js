@@ -1,4 +1,4 @@
-import Quill from "quill";
+import Quill from "quill/dist/quill.core";
 import Keys from "./constants";
 import {
   attachDataValues,
